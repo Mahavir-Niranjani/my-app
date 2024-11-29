@@ -1,6 +1,15 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+npm install -g create-react-app
+npx create-react-app my-app
+cd my-app
+npm install @mui/x-date-pickers
+npm install dayjs
+npm install dayjs-plugin-advanced-format
+npm start
+npm install @mui/material @emotion/react @emotion/styled
+npm ls @mui/x-date-pickers
 
 ## Available Scripts
 
